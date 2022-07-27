@@ -6,5 +6,5 @@ import pandas as pd
 a = np.random.randint(0, 10)
 print(a)
 
-def func_expo(a,b):
-    return a^b
+def func_expo(x,n):
+    return x^n
